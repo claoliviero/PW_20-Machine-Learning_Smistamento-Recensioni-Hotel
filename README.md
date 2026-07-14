@@ -2,7 +2,7 @@
 
 ## Contesto
 
-Project Work universitario inerente lo smistamento delle recensioni di un Hotel per reparto di appartenenza e analisi della polarità. Il progetto è stato implementato e suddiviso in tre fasi.
+Project Work inerente lo smistamento delle recensioni di un Hotel per reparto di appartenenza e analisi della polarità. Il progetto è stato implementato e suddiviso in tre fasi.
 La seguente repository contiene i seguenti file:
 
 ### PoC_1:
