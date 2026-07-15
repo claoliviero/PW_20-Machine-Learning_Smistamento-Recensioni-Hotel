@@ -18,3 +18,4 @@ Terza parte del progetto, miglioramento della fase precedente, prototipo finale.
 Nome file ====>  **(PW_PoC_2_RecensioniHotel.ipynb)**
 
 
+In aggiunta sono presenti la cartella **Dateset** (contenente tutti i file csv utilizzati) e la cartella delle **immagini varie**
