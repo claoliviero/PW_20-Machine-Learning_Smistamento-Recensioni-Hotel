@@ -15,7 +15,7 @@ Seconda parte del progetto, evoluzione avanzata del primo modello. Contiene bloc
 
 ### PoC_2.1:
 Terza parte del progetto, miglioramento della fase precedente, prototipo finale. Contiene blocco di codice implementato su **Google Colab** , interfaccia grafica (Dashboard) e batch prediction. <b> <br>
-Nome file ====>  **(PW_PoC_2_RecensioniHotel.ipynb)**
+Nome file ====>  **(PW_PoC_2_RecensioniHotel.ipynb)** <br>
 
 
-In aggiunta sono presenti la cartella **Dateset** (contenente tutti i file csv utilizzati) e la cartella delle **immagini varie**
+In aggiunta sono presenti la cartella *Dateset* (contenente tutti i file csv utilizzati) e la cartella delle *immagini varie*.
